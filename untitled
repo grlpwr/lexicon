@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Digital Marketing Manager</title>
+
+    <link rel="stylesheet" src="text/css" href="grl_pwr.css"/>
+
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400" rel="stylesheet">
+</head>
+<body>
+	<h1 class="h1_content">Digital Marketing Manager</h1>
+	<p class="p_content">A Digital Marketing Manager manages the digital (or online) elements of the marketing mix, integrates with offline (print, PR etc), also gets involved in strategic side of things like setting KPI’s. A digital marketing manager works with other departments (sales, customer services, HR etc) to ensure the implementation of the marketing plan is coordinated, aligned, consistent and meets business objectives.</p>
+	
+	<h2 class="h2_content">Skills:</h2>
+	<ul class="ul_content">
+		<li>Marketing</li>
+		<li>Communication</li>
+		<li>Analytics</li>
+	</ul>
+</body>
